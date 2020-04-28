@@ -1,0 +1,129 @@
+"Species","Rep","Treatment","TPercentage"
+"ABG",1,"Wicked",0.5
+"ABG",2,"Wicked",0.466666666666667
+"ABG",3,"Wicked",0.5
+"ABG",4,"Wicked",0.6
+"ABG",1,"Seamist",0.466666666666667
+"ABG",2,"Seamist",0.566666666666667
+"ABG",3,"Seamist",0.666666666666667
+"ABG",4,"Seamist",0.533333333333333
+"ABG",1,"Radar",0.466666666666667
+"ABG",2,"Radar",0.6
+"ABG",3,"Radar",0.333333333333333
+"ABG",4,"Radar",0.433333333333333
+"ABG",1,"Cardinal",0.466666666666667
+"ABG",2,"Cardinal",0.533333333333333
+"ABG",3,"Cardinal",0.733333333333333
+"ABG",4,"Cardinal",0.566666666666667
+"ABG",1,"Jetty",0.4
+"ABG",2,"Jetty",0.466666666666667
+"ABG",3,"Jetty",0.433333333333333
+"ABG",4,"Jetty",0.633333333333333
+"ABG",1,"Nonfertilized",0.6
+"ABG",2,"Nonfertilized",0.666666666666667
+"ABG",3,"Nonfertilized",0.566666666666667
+"ABG",4,"Nonfertilized",0.666666666666667
+"ABG",1,"Fertilized",0.6
+"ABG",2,"Fertilized",0.666666666666667
+"ABG",3,"Fertilized",0.666666666666667
+"ABG",4,"Fertilized",0.566666666666667
+"ABG",1,"DI water",0.566666666666667
+"ABG",2,"DI water",0.466666666666667
+"ABG",3,"DI water",0.633333333333333
+"ABG",4,"DI water",0.7
+"Dandelion",1,"Wicked",0.766666666666667
+"Dandelion",2,"Wicked",0.766666666666667
+"Dandelion",3,"Wicked",0.733333333333333
+"Dandelion",4,"Wicked",0.7
+"Dandelion",1,"Seamist",0.8
+"Dandelion",2,"Seamist",0.766666666666667
+"Dandelion",3,"Seamist",0.7
+"Dandelion",4,"Seamist",1
+"Dandelion",1,"Radar",0.866666666666667
+"Dandelion",2,"Radar",0.866666666666667
+"Dandelion",3,"Radar",0.733333333333333
+"Dandelion",4,"Radar",0.666666666666667
+"Dandelion",1,"Cardinal",0.833333333333333
+"Dandelion",2,"Cardinal",0.833333333333333
+"Dandelion",3,"Cardinal",0.9
+"Dandelion",4,"Cardinal",0.666666666666667
+"Dandelion",1,"Jetty",0.666666666666667
+"Dandelion",2,"Jetty",0.766666666666667
+"Dandelion",3,"Jetty",0.866666666666667
+"Dandelion",4,"Jetty",0.933333333333333
+"Dandelion",1,"Nonfertilized",0.8
+"Dandelion",2,"Nonfertilized",0.666666666666667
+"Dandelion",3,"Nonfertilized",0.6
+"Dandelion",4,"Nonfertilized",0.733333333333333
+"Dandelion",1,"Fertilized",0.666666666666667
+"Dandelion",2,"Fertilized",0.833333333333333
+"Dandelion",3,"Fertilized",0.766666666666667
+"Dandelion",4,"Fertilized",0.6
+"Dandelion",1,"DI water",0.833333333333333
+"Dandelion",2,"DI water",0.633333333333333
+"Dandelion",3,"DI water",0.866666666666667
+"Dandelion",4,"DI water",0.766666666666667
+"Crabgrass",1,"Wicked",0.266666666666667
+"Crabgrass",2,"Wicked",0.133333333333333
+"Crabgrass",3,"Wicked",0.2
+"Crabgrass",4,"Wicked",0.3
+"Crabgrass",1,"Seamist",0.0666666666666667
+"Crabgrass",2,"Seamist",0.133333333333333
+"Crabgrass",3,"Seamist",0.233333333333333
+"Crabgrass",4,"Seamist",0.1
+"Crabgrass",1,"Radar",0.1
+"Crabgrass",2,"Radar",0.266666666666667
+"Crabgrass",3,"Radar",0.166666666666667
+"Crabgrass",4,"Radar",0.266666666666667
+"Crabgrass",1,"Cardinal",0.166666666666667
+"Crabgrass",2,"Cardinal",0.2
+"Crabgrass",3,"Cardinal",0.3
+"Crabgrass",4,"Cardinal",0.1
+"Crabgrass",1,"Jetty",0.2
+"Crabgrass",2,"Jetty",0.133333333333333
+"Crabgrass",3,"Jetty",0.133333333333333
+"Crabgrass",4,"Jetty",0.133333333333333
+"Crabgrass",1,"Nonfertilized",0.233333333333333
+"Crabgrass",2,"Nonfertilized",0.266666666666667
+"Crabgrass",3,"Nonfertilized",0.2
+"Crabgrass",4,"Nonfertilized",0.3
+"Crabgrass",1,"Fertilized",0.366666666666667
+"Crabgrass",2,"Fertilized",0.266666666666667
+"Crabgrass",3,"Fertilized",0.333333333333333
+"Crabgrass",4,"Fertilized",0.166666666666667
+"Crabgrass",1,"DI water",0.166666666666667
+"Crabgrass",2,"DI water",0.2
+"Crabgrass",3,"DI water",0.0666666666666667
+"Crabgrass",4,"DI water",0.1
+"Goosegrass",1,"Wicked",0.0333333333333333
+"Goosegrass",2,"Wicked",0.0333333333333333
+"Goosegrass",3,"Wicked",0.0333333333333333
+"Goosegrass",4,"Wicked",0.133333333333333
+"Goosegrass",1,"Seamist",0.4
+"Goosegrass",2,"Seamist",0.2
+"Goosegrass",3,"Seamist",0.566666666666667
+"Goosegrass",4,"Seamist",0.2
+"Goosegrass",1,"Radar",0.0666666666666667
+"Goosegrass",2,"Radar",0.2
+"Goosegrass",3,"Radar",0.333333333333333
+"Goosegrass",4,"Radar",0.333333333333333
+"Goosegrass",1,"Cardinal",0.366666666666667
+"Goosegrass",2,"Cardinal",0.5
+"Goosegrass",3,"Cardinal",0.433333333333333
+"Goosegrass",4,"Cardinal",0.3
+"Goosegrass",1,"Jetty",0.4
+"Goosegrass",2,"Jetty",0.4
+"Goosegrass",3,"Jetty",0.466666666666667
+"Goosegrass",4,"Jetty",0.533333333333333
+"Goosegrass",1,"Nonfertilized",0.266666666666667
+"Goosegrass",2,"Nonfertilized",0.333333333333333
+"Goosegrass",3,"Nonfertilized",0.0666666666666667
+"Goosegrass",4,"Nonfertilized",0.266666666666667
+"Goosegrass",1,"Fertilized",0.666666666666667
+"Goosegrass",2,"Fertilized",0.966666666666667
+"Goosegrass",3,"Fertilized",0.766666666666667
+"Goosegrass",4,"Fertilized",0.9
+"Goosegrass",1,"DI water",0.2
+"Goosegrass",2,"DI water",0.766666666666667
+"Goosegrass",3,"DI water",0.8
+"Goosegrass",4,"DI water",0.233333333333333
