@@ -1,0 +1,97 @@
+Species,Treatment,Rep,14DAT Germinated No. ,Percentage
+Dandelion,DI water,1,26,0.87
+Dandelion,DI water,2,30,1.00
+Dandelion,DI water,3,30,1.00
+Dandelion,DI water,4,27,0.90
+Dandelion,Wicked,1,27,0.90
+Dandelion,Wicked,2,27,0.90
+Dandelion,Wicked,3,26,0.87
+Dandelion,Wicked,4,26,0.87
+Dandelion,Seamist,1,25,0.83
+Dandelion,Seamist,2,26,0.87
+Dandelion,Seamist,3,23,0.77
+Dandelion,Seamist,4,23,0.77
+Dandelion,Cardinal,1,25,0.83
+Dandelion,Cardinal,2,24,0.80
+Dandelion,Cardinal,3,18,0.60
+Dandelion,Cardinal,4,23,0.77
+Dandelion,Jetty,1,23,0.77
+Dandelion,Jetty,2,25,0.83
+Dandelion,Jetty,3,27,0.90
+Dandelion,Jetty,4,25,0.83
+Dandelion,Radar,1,27,0.90
+Dandelion,Radar,2,26,0.87
+Dandelion,Radar,3,26,0.87
+Dandelion,Radar,4,23,0.77
+Annual bluegrass,Wicked,1,15,0.50
+Annual bluegrass,Wicked,2,19,0.63
+Annual bluegrass,Wicked,3,18,0.60
+Annual bluegrass,Wicked,4,19,0.63
+Annual bluegrass,Seamist,1,12,0.40
+Annual bluegrass,Seamist,2,18,0.60
+Annual bluegrass,Seamist,3,23,0.77
+Annual bluegrass,Seamist,4,24,0.80
+Annual bluegrass,Jetty,1,20,0.67
+Annual bluegrass,Jetty,2,20,0.67
+Annual bluegrass,Jetty,3,20,0.67
+Annual bluegrass,Jetty,4,20,0.67
+Annual bluegrass,Cardinal,1,29,0.97
+Annual bluegrass,Cardinal,2,22,0.73
+Annual bluegrass,Cardinal,3,17,0.57
+Annual bluegrass,Cardinal,4,23,0.77
+Annual bluegrass,Radar,1,22,0.73
+Annual bluegrass,Radar,2,17,0.57
+Annual bluegrass,Radar,3,19,0.63
+Annual bluegrass,Radar,4,21,0.70
+Annual bluegrass,DI water,1,21,0.70
+Annual bluegrass,DI water,2,14,0.47
+Annual bluegrass,DI water,3,18,0.60
+Annual bluegrass,DI water,4,21,0.70
+Crabgrass,Cardinal,1,1,0.03
+Crabgrass,Cardinal,2,3,0.10
+Crabgrass,Cardinal,3,2,0.07
+Crabgrass,Cardinal,4,0,0.00
+Crabgrass,Radar,1,0,0.00
+Crabgrass,Radar,2,1,0.03
+Crabgrass,Radar,3,0,0.00
+Crabgrass,Radar,4,1,0.03
+Crabgrass,Seamist,1,0,0.00
+Crabgrass,Seamist,2,0,0.00
+Crabgrass,Seamist,3,2,0.07
+Crabgrass,Seamist,4,1,0.03
+Crabgrass,Wicked,1,0,0.00
+Crabgrass,Wicked,2,1,0.03
+Crabgrass,Wicked,3,2,0.07
+Crabgrass,Wicked,4,0,0.00
+Crabgrass,Jetty,1,1,0.03
+Crabgrass,Jetty,2,3,0.10
+Crabgrass,Jetty,3,2,0.07
+Crabgrass,Jetty,4,1,0.03
+Crabgrass,DI water,1,2,0.07
+Crabgrass,DI water,2,2,0.07
+Crabgrass,DI water,3,0,0.00
+Crabgrass,DI water,4,2,0.07
+Goosegrass,Radar,1,0,0.00
+Goosegrass,Radar,2,0,0.00
+Goosegrass,Radar,3,0,0.00
+Goosegrass,Radar,4,1,0.03
+Goosegrass,Cardinal,1,0,0.00
+Goosegrass,Cardinal,2,3,0.10
+Goosegrass,Cardinal,3,1,0.03
+Goosegrass,Cardinal,4,0,0.00
+Goosegrass,Wicked,1,0,0.00
+Goosegrass,Wicked,2,0,0.00
+Goosegrass,Wicked,3,1,0.03
+Goosegrass,Wicked,4,2,0.07
+Goosegrass,Jetty,1,1,0.03
+Goosegrass,Jetty,2,3,0.10
+Goosegrass,Jetty,3,0,0.00
+Goosegrass,Jetty,4,2,0.07
+Goosegrass,Seamist,1,0,0.00
+Goosegrass,Seamist,2,0,0.00
+Goosegrass,Seamist,3,2,0.07
+Goosegrass,Seamist,4,2,0.07
+Goosegrass,DI water,1,2,0.07
+Goosegrass,DI water,2,0,0.00
+Goosegrass,DI water,3,4,0.13
+Goosegrass,DI water,4,0,0.00
